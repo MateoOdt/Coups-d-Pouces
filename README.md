@@ -25,6 +25,7 @@ _Analyse_ :
 
 _Conception_ : 
 - Design de l'application : [Coups de pouces Design](https://www.figma.com/file/4ZNzEmmVlz3MDY0cypmuMl/Coup-de-Pouce?node-id=0%3A1)
+
 Cliquer sur "Present" (bouton play) en haut à droite pour une présentation de l'appli.
 
 ## Logiciel : 
